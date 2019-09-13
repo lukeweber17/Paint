@@ -114,16 +114,16 @@ public class Paint extends Application {
         modification_pane.setHgap(20);
         modification_pane.setVgap(10);
         modification_pane.setAlignment(Pos.CENTER);
-        full_pane = new BorderPane();    //fullPane is everything together
-        canvas = new Canvas(500,500);   //overlays image and can be drawn on
+        full_pane = new BorderPane();    //fullPane is all in one
+        canvas = new Canvas(500,500);   //cavas to be drawn on 
         graphic = canvas.getGraphicsContext2D();
         image_pane = new StackPane(image_view, canvas);
-        top_menu = new VBox(menu_bar);    //pane for menubar at top
+        top_menu = new VBox(menu_bar);    //vbox for menu at top
         full_pane.setTop(top_menu);
         full_pane.setBottom(image_pane);
         modification_pane.autosize();
         full_pane.setCenter(modification_pane);
-        ScrollPane scroll_pane = new ScrollPane(full_pane);
+        ScrollPane scroll_pane = new ScrollPane(full_pane); //Scroll Bar
         scroll_pane.setHbarPolicy(ScrollBarPolicy.ALWAYS);
         scroll_pane.setVbarPolicy(ScrollBarPolicy.ALWAYS);
 
