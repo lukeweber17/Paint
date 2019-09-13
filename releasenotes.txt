@@ -1,0 +1,23 @@
+Release Notes
+
+Date: 09/12/2019 - Version: Paint v0.0.0.2
+	INCLUDES:
+	*
+	*
+	*
+	
+	COMING SOON:
+	*
+	*
+	*
+
+Date: 09/04/2019 - Version: Paint v0.0.0.1
+
+	INCLUDES: 
+	*Allows user to open of image of their choice
+	*Allows user to save image to a directory
+	*Allows user to close application
+
+	COMING SOON: 
+	*Add pop-up that asks user if they would like to save before closing the application
+	*I'll find out more friday for what's coming next
