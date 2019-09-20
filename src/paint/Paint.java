@@ -35,6 +35,7 @@ import javafx.stage.Stage;
 import javafx.scene.image.*;
 import javafx.scene.input.KeyCombination;
 import javafx.scene.input.MouseEvent;
+import javafx.scene.input.ScrollEvent;
 import javafx.scene.input.ZoomEvent;
 import javafx.scene.layout.*;
 import javafx.scene.shape.*;
@@ -394,7 +395,7 @@ public class Paint extends Application {
                 //alert setup information
                 alert.setTitle("Smart Close");
                 alert.setHeaderText("Save/Cancel/Close");
-                alert.setContentText("Save your masterpiece!");
+                alert.setContentText("Are you sure you want to close? Save your work first!");
                 //creation of three buttons in smartClose dialog
                 ButtonType one = new ButtonType("Save");
                 ButtonType two = new ButtonType("Cancel");
@@ -501,6 +502,7 @@ public class Paint extends Application {
                 });
             }
         };
+        
         
         
         
