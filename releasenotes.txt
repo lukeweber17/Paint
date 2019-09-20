@@ -1,15 +1,43 @@
 Release Notes
 
+Date: 09/20/2019 - Version: Paint v0.0.0.3
+	INCLUDES:
+	*"Smart Save"
+	*More image file types
+	*Toolbar for drawing controls
+	*Keyboard UI controls
+	*Color "grabber" tool
+	*Color and Width selection 
+	*Freehand drawing 
+	*Undo 
+	*Rectangle, Cirlce, Ellipse drawing shapes
+
+	COMING SOON:
+	*Add text to your image
+	*Eraser tool
+	*More shapes to draw
+	*Redo button
+	*Give user access to release notes from software
+	*Move pieces of image
+	*Polygons 
+
 Date: 09/12/2019 - Version: Paint v0.0.0.2
 	INCLUDES:
-	*
-	*
-	*
+	*Allows user to save and save as
+	*Added scroll bars
+	*Help/About pop-up available
+	*Workspace is resizeable
 	
 	COMING SOON:
-	*
-	*
-	*
+	*"Smart Save"
+	*More image file types
+	*Toolbar for drawing controls
+	*Keyboard UI controls
+	*Color "grabber" tool
+	*Color and Width selection 
+	*Freehand drawing 
+	*Undo 
+	*Rectangle, Cirlce, Ellipse drawing shapes
 
 Date: 09/04/2019 - Version: Paint v0.0.0.1
 
