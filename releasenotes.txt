@@ -1,5 +1,18 @@
 Release Notes
 
+Date: 09/26/2019 - Version: Paint v0.0.0.4
+	INCLUDES:
+	*Add text to your image
+	*Eraser tool
+	*More shapes to draw
+	*Redo button
+	*Give user access to release notes from software
+	*Move pieces of image
+	*Polygons 
+
+	COMING SOON:
+	*
+
 Date: 09/20/2019 - Version: Paint v0.0.0.3
 	INCLUDES:
 	*"Smart Save"
